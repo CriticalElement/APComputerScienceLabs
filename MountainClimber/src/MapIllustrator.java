@@ -95,7 +95,6 @@ public class MapIllustrator
 				topCond = Integer.MAX_VALUE; // value that will never get picked
 			}
 			else {
-				System.out.println(row);
 				topCond = Math.abs(grid[row - 1][col] - grid[row][col - 1]);
 			}
 			int fwdCond = Math.abs(grid[row][col] - grid[row][col - 1]);
@@ -122,7 +121,6 @@ public class MapIllustrator
 			}
 			else if (topCond < bottomCond) {
 				row--;
-				System.out.println(row);
 				elevationChange += topCond;
 			}
 			else {
