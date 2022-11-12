@@ -1,0 +1,612 @@
+John William ALLARDYCE   17 Mar 1844 2.9  Little Knight Ryder Street
+Frederic Alex. ALLARDYCE 21 Apr 1844 0.17 Little Knight Ryder Street
+Philip AMIS              03 Aug 1848 1    18 1/2 Knight Rider Street
+Thomas ANDERSON          06 Jul 1845 27   2, Bennet's Hill
+Edward ANGEL             20 Nov 1842 22   Crane Court Lambeth Hill
+Sarah ANGELL             09 Oct 1836 42   Lambeth Hill
+Sarah ANSELL             31 May 1829 29   High Timber St, Upper Thames St
+Charles ANTHONY          22 Jul 1849 6    3,Taylor's Court, Lambeth Hill
+Sarah Ann ANTHONY        06 Aug 1828 47   Lambeth Hill
+Sarah ARLETT             27 May 1849 2    5, Little Knight Rider Street
+Hannah AUSTIN            23 Feb 1819 41   Box MDX
+Oliver AUSTIN            19 Feb 1816 0.5  Mile End
+Rosina AUSTIN            07 Mar 1833 20   Mile End MDX
+Hannah AYLIFF            18 Jul 1832 11   Lambeth Hill
+Hannah AYLIFF            10 Dec 1834 44   Crane Court Lambeth Hill
+William James AYLIFF     31 Jan 1819 0.2  Crane Court Lambeth Hill
+George BAKER             08 Jan 1839 46   Knight Ryder Court
+Caroline BARHAM          11 Jul 1851 56   6, Pelham Place, Brompton
+Richard Harris BARHAM    21 Jun 1845 57   Residentary Ho. Amen Corner
+Ann BARRY                21 Sep 1842 64   Bucks Head Court
+Frederick BARTLETT       29 Nov 1839 0.11 Crane Court
+Mary BATEMAN             31 Oct 1847 67   24, Lambeth Hill
+John Gardner BATTEN      08 Dec 1819 0.18 Westham ESS
+George BAXTER            08 Sep 1835 30   Knight Rider Court
+Susanna BAXTER           05 Sep 1830 40   Crane Court Lambeth Hill
+Mary BEARNARD            19 Oct 1834 21   Little Knight Ryder Street
+Henry BEAUMONT           21 Nov 1813 1.9  Old Change
+Mary Ann BEAUMONT        15 Dec 1813 27   Old Change
+Thomas BEAUMONT          08 Jun 1833 0.4  Knowles Court
+George Jacob BECK        19 Apr 1846 0.7  Sermon Lane
+Eleanor BECKLEY          17 Nov 1850 1    4, Lambeth Hill
+Mary Ann BECKWITH        29 Jun 1828 0.10 Crane Court Lambeth Hill
+Sarah BECKWITH           21 Jan 1828 2.6  Crane Court Lambeth Hill
+Henry Charles BENNET     01 Aug 1847 0.15 6, Lambeth Hill
+Hannah BENNETT           26 Sep 1841 0.10 Lambeth Hill
+Mary Wicks BENNETT       14 Apr 1850 38   6, Lambeth Hill
+William BENNETT          05 Jul 1837 0.6  Lambeth Hill
+William Perkins BENNETT  28 Dec 1845 3    Lambeth Hill
+Wm. Geo. Perkins BENNETT 27 Mar 1836 0.5  Lambeth Hill
+George BENSTEAD          02 Apr 1837 0.7  Lambeth Hill
+John Stephen BENSTEAD    29 Mar 1839 0.8  Lambeth Hill
+Ann Elizabeth BENYON     04 Jan 1814 26   Crane Court Lambeth Hill
+Charles James BERRY      03 Mar 1841 34   Sermon Lane
+Sarah BERRY              26 Jan 1817 0.21 Little Knight, Ryder Street
+Philemon BETTS           11 Apr 1820 35   Upper Thames Street
+Ann BIRCH                30 Oct 1850 75   1,Taylor's Court, Lambeth Hill
+Elizabeth BIRCH          09 Aug 1829 58   Lambeth Hill
+Elizabeth Ann BIRCH      07 Jul 1832 2w   Lambeth Hill
+Sarah BIRCH              12 Aug 1832 32   Green Dragon Crt, St Andrews Hill
+Sarah Lucy BIRCH         26 Feb 1834 30   Lambeth Hill
+Jane BIRCHILL            31 Mar 1839 18   New Street, St Bride's
+Alfred BLACKLEDGE        26 Sep 1848 21   6,Green Arbour Court, Lambeth Hill
+Charles BLACKLEDGE       07 Jan 1835 2    Green Arbour Court
+Charles BLACKLEDGE       07 Aug 1831 0.18 Green Arbour Court
+George BLACKLEDGE        30 Aug 1831 6    Green Arbour Court
+Jane BLACKLEDGE          03 Jun 1821 32   Green Arbour Court
+John BLACKLEDGE          27 Sep 1835 44   Green Arbour Court
+Elizabeth BLACKMORE      24 Jan 1830 52   Lambeth Hill
+Thomas BODKIN            13 May 1821 23   Crane Court Lambeth Hill
+Frances BOTLEY           24 Dec 1816 8    Lambeth Hill
+John BOWLES              17 Aug 1817 22   Green Arbour Court
+Mary BOWLES              09 May 1838 33   Green Arbour Court
+Mary BOWLES              01 Dec 1850 78   Green Arbour Court, Lambeth Hill
+Ann BOX                  08 Feb 1815 0.15 Crane Court Lambeth Hill
+Jane BRADSHAW            09 Dec 1833 0.3  Crane Court Lambeth Hill
+William BRAINTRUMP       15 Sep 1839 5    Lambeth Hill
+Sarah BRINDLE            11 Aug 1816 74   Taylor's Court
+William BROOKES          24 Feb 1822 1    Green Arbour Court, Lambeth Hill
+Elizabeth BROWN          13 Oct 1839 33   High Holborn
+John BROWN               11 May 1845 26   Parr's Head Corner Peters Hill
+Angelina BUCKLEY         28 Jan 1851 38   3, Morris Yard, Old Fish Street
+Jacob George BUCKLEY     22 Nov 1840 0.3  Lambeth Hill
+Ann BUCKMASTER           06 Apr 1817 3.10 Lambeth Hill
+Mary Ann BUFFHAM         25 Jun 1839 3    Green Arbour Court, Lambeth Hill
+Sarah BUNKER             01 Jul 1817 47   Little Knight Ryder Street
+William BURCH            02 May 1847 71   4, Lambeth Hill
+Lucy BURGESS             21 Dec 1834 45   Little Knight Ryder Street
+Henry BURGMAN            21 Jan 1838 76   Little Knight Ryder Street
+Ann BURGOYNE             28 Aug 1823 5    White Cross St, Cripplegate
+Ann BURGOYNE             02 Sep 1833 55   Little Knight Ryder Street
+John BURGOYNE            20 Nov 1814 3.9  Friars Streets Blackfriars
+John BURGOYNE            05 Jan 1834 53   Little Knight Ryder Street
+Mary BURGOYNE            20 Jun 1813 33   Lambeth Hill
+Thomas BURGUIN           17 Mar 1816 62   Knight Rider Court
+Ann CARDWELL             24 Jul 1842 48   Green Arbour Court, Lambeth Hill
+Jane CAREY               31 Jan 1830 0.3  Taylor's Court, Lambeth Hill
+Ann Charlotte CARPENTER  21 Nov 1851 76   14, Park Place Peckham
+James CARPENTER          05 Jun 1838 67   Peckham SRY
+Joseph CARPENTER         18 Jun 1829 13   Peckham SRY
+Elizabeth CARTER         17 May 1842 74   Green Arbour Court, Lambeth Hill
+Henry Eli CASTLEMAN      24 Sep 1839 30   Old Change
+Priscilla Mary Ann CAVE  08 Mar 1814 1.2  Lambeth Hill
+Mary CHAMBERS            21 Nov 1830 70   Lambeth Hill
+William CHAMBERS         13 Mar 1827 75   Lambeth Hill
+Charles CLARK            26 Mar 1826 2.3  Brew Street Hill
+Elizabeth CLARK          23 Aug 1818 64   Lambeth Hill
+Emma CLARK               14 Oct 1849 4    15, Old Change
+George CLARK             09 Dec 1821 68   Lambeth Hill
+Isabella CLARK           08 Apr 1813 7d   Little Knight Ryder Street
+Mary Jane CLARK          12 May 1838 20   Old Change
+William Penn CLARK       21 Apr 1833 40   Bell Square, Bishopsgate
+Thomas CLOSE             29 Jun 1824 55   Little Knight Ryder Street
+Ellen COCHRAM            11 Jun 1848 42   27, Addle Hill
+John COCKERING           19 Dec 1849 7    18, Old Change
+Elizabeth COCKHEAD       09 Jun 1850 21   New Street, Blackfriars
+Eliza Erinder COGGER     04 Nov 1823 0.10 Peters Hill
+Lucy Ann COLEBACK        23 Jul 1843 4w   Lambeth Hill
+Charles COLES            01 Dec 1833 2    Great Carter Lane
+Eliza COLES              16 Apr 1826 10   Crane Court Lambeth Hill
+Jane COLES               05 Jul 1832 5    Great Carter Lane
+John COLES               09 Oct 1836 17   Great Carter Lane, Doctors Commos
+William COLES            28 Apr 1833 3.10 Great Carter Lane
+Richard COLLETT          01 Oct 1843 39   Old Change
+Thomas William COLLEY    08 Aug 1833 4d   Lambeth Hill
+Joseph COLLIER           03 Apr 1831 58   Lambeth Hill
+James Robert COLLINS     25 Mar 1834 1.6  Lambeth Hill
+Sarah COLLINSON          15 Sep 1839 0.2  Knight Rider Court
+John Speechley COOK      09 Mar 1817 2    Great Carter Lane
+Elizabeth COOKE          27 Aug 1825 39   Crew Lane
+Emma COOKSON             16 Jul 1826 0.3  Old Change
+Emma COOKSON             16 Jul 1826 0.3  Old Change
+Elizabeth COSTER         24 Sep 1826 42   Crane Court Lambeth Hill
+Mary COWLING             13 Nov 1825 0.10 Lambeth Hill
+Mary Ann COX             08 Aug 1833 4d   St Peters Hill
+Alice CRAGG              11 Aug 1834 2    Taylor's Court, Lambeth Hill
+John CRAGG               19 Aug 1832 34   Green Arbour Court, Lambeth Hill
+John CROCKFORD           16 Jul 1834 67   Crane Court Lambeth Hill
+Harriot CROFT            08 Oct 1819 31   Portpool Street St Andrews Holbon
+Margaret CROFT           20 Jan 1819 0.2  Little Knight Ryder Street
+James CROLL              19 Apr 1829 43   Lambeth Hill
+Charles CROOT            09 Jun 1818 2    Windsor Crt Little Knight Rider Court
+Charles Neal CUMMINGS    12 Dec 1825 18   Great Carter Lane
+Ann CUMMINS              16 Jun 1832 66   Great Carter Lane
+Thomas CUNNINGHAM        07 Jun 1846 17   21, Lambeth Hill
+Ann DALBY                11 Aug 1839 60   Green Arbour Court, Lambeth Hill
+Thomas DALBY             18 Apr 1841 25   Green Arbour Court, Lambeth Hill
+William DALBY            29 May 1842 65   Green Arbour Court, Lambeth Hill
+William DAVIS            28 Jun 1845 71   Ludgate Street
+William DAWES            25 Aug 1833 65   Taylor's Court, Lambeth Hill
+Mary DAWSON              20 Oct 1850 62   14, Sermon Lane
+James DAY                22 Jan 1815 0.13 Sermon Lane
+John DAY                 17 Nov 1819 1    Sermon Lane
+Richard DAY              29 Apr 1819 36   Sermon Lane
+Mary Ann DEACH           29 Oct 1843 0.22 Lambeth Hill
+Jane DERBYSHIRE          19 Jan 1817 2    Old Change
+William DEVEY            21 Dec 1834 0.3  Green Arbour Court, Lambeth Hill
+Henry DIAL               07 Jun 1836 2w   Crane Court Lambeth Hill
+Frederick DILLAY         04 May 1834 2    Little Carter Lane
+Richard DILLEY           26 Jan 1837 46   Little Carter Lane
+William DOLBY            20 Jul 1824 5.6  Green Arbour Court, Lambeth Hill
+Charles DORSETT          01 Oct 1848 0.6  4, Lambeth Hill
+Mary DOUGLAS             26 Jan 1839 0.14 Knight Rider Street
+Elizabeth DOWNES         04 Jun 1837 48   Taylor's Court, Lambeth Hill
+John DRAKE               21 Apr 1833 50   Lambeth Hill
+Elizabeth DUDLEY         03 Oct 1847 73   1,Taylor's Court, Lambeth Hill
+Sarah DUNN               27 Oct 1816 55   Christ Church SRY
+Amelia DYSON             06 Dec 1814 0.6  Old Change
+Hannah DYSON             24 Mar 1819 60   High Street. Marylebone MDX
+Robert Joseph DYSON      05 Jan 1813 1.6  Old Change
+Thomas DYSON             18 Sep 1813 0.10 Old Change
+William EADES            19 Aug 1818 5    Taylors Court Lambeth Hill
+Edwin EARDLEY            08 Dec 1833 25   Little Knight Rider Street
+Henry EDMONDS            09 Apr 1826 38   Old Change
+William EDMUNDS          03 Feb 1825 60   Lambeth Hill
+George EDWARDS           11 Jul 1813 49   Taylors Court Lambeth Hill
+Harriet Sarah ELLARD     16 Jun 1844 0.11 Lambeth Hill
+John Yates ELLIS         29 Nov 1830 5d   Little Knight Rider Street
+Thomas ELLIS             15 Mar 1829 0.10 Knight Rider Court
+James ENTWISLE           22 May 1819 40   Little Knight Ryder Street
+Mary Ann ESCOTT          26 Aug 1821 0.3  Crane Court Lambeth Hill
+John EVANS               26 Aug 1819 11   Lambeth Hill
+William EVANS            13 Nov 1814 1.2  Green Arbour Court, Lambeth Hill
+Jane EXTON               26 Mar 1815 54   Green Arbour Court, Lambeth Hill
+Lewis FACHE              28 Dec 1823 0.10 Crane Court Lambeth Hill
+Mary FACHE               09 Jun 1822 0.18 Crane Court Lambeth Hill
+Mary FARMFIELD           05 Mar 1843 64   Lambeth Hill
+Elizabeth FARROW         20 Dec 1819 65   Green Arbour Court, Lambeth Hill
+Edward FELLOWES          28 Apr 1833 2    Taylor's Court, Lambeth Hill
+Lydia FELLOWS            28 Jan 1844 33   Lambeth Hill
+William Henry FELLOWS    28 Jun 1837 0.13 Lambeth Hill
+Mary Ann FERRIDAY        16 Mar 1851 69   2, Fish Street
+Mary FIELD               20 Feb 1829 0.3  Lambeth Hill
+Harriett FINCH           01 Feb 1852 0.9  Green Arbour Court, Lambeth Hill
+George FLANDERS          16 Aug 1837 0.3  St Peters Hill
+Louisa FLANDERS          25 Jun 1839 9.3  St Peters Hill
+William FLANDERS         19 May 1833 2.6  St Peters Hill
+William FLANDERS         28 Nov 1847 50   15 Labour in Vain Yard Lambeth Hill
+Elizabeth FLINTAN        20 Jul 1832 39   Green Arbour Court, Lambeth Hill
+Jane FLUDE               01 Nov 1832 58   Little Knight Ryder Street
+Elizabeth FOON           25 Aug 1833 14   Green Arbour Court, Lambeth Hill
+George FOON              28 May 1816 0.19 Green Arbour Court, Lambeth Hill
+John FOON                09 Jun 1816 4    Green Arbour Court, Lambeth Hill
+John FOON                10 Jan 1841 60   Green Arbour Court, Lambeth Hill
+William FOONE            16 May 1847 24   3, Green Arbour Court, Lambeth Hill
+Levina FRANCIS           11 Aug 1844 6    Bennetts Hill
+William FROSTICK         06 Nov 1825 1.8  Lambeth Hill
+Elizabeth GABRIEL        30 Apr 1834 18   Lambeth Hill
+George GALE              17 Nov 1833 6    Crane Court Lambeth Hill
+Elizabeth GALLANT        27 Aug 1848 11   10, Crane Court
+Esther GALLERY           01 Jun 1813 62   Taylor's Court, Lambeth Hill
+Elizabeth GARDENER       13 Mar 1836 30   Knight Riders Court
+James GARDNER            05 Jan 1826 0.16 Taylor's Court, Lambeth Hill
+Sarah GARDNER            24 Nov 1831 50   Crane Court Lambeth Hill
+Augusta Sophia GAUGIN    04 Nov 1821 16   Knowles Court
+Jane GIBBS               10 Jul 1839 0.11 Green Arbour Court, Lambeth Hill
+Martha GILES             12 Dec 1813 25   Green Arbour Court, Lambeth Hill
+Thos Henry David GILHAM  17 Apr 1853 37   12,Little Knight Ryder Street
+Eliza GLEESON            12 Mar 1815 0.18 Knight Rider Court
+Caroline GODFREY         29 May 1821 0.4  Taylor's Court, Lambeth Hill
+Elizabeth GODFREY        09 Jul 1818 2    Taylor's Court, Lambeth Hill
+John GODFREY             24 Apr 1817 2    Crane Court Lambeth Hill
+Louisa GODFREY           29 May 1821 0.4  Taylor's Court, Lambeth Hill
+Eliza GOODALL            06 Apr 1845 28   Little Carter Lane
+James GOODHALL           08 Oct 1843 49   Green Arbour Court, Lambeth Hill
+Johanna GOODWIN          12 May 1815 86   Green Arbour Court, Lambeth Hill
+Henry GOODYEAR           28 Jul 1850 14.9 12, Little Carter Lane
+Abraham GOYMER           02 Sep 1839 48   Globe Road, Mile End
+Abraham GOYMER           11 Dec 1823 5d   Old Fish Street
+Abraham Frederic GOYMER  06 Nov 1825 0.11 Old Fish Street
+Amelia GOYMER            01 Mar 1831 0.10 Old Fish Street
+Henry Robert GOYMER      20 May 1821 1.11 Old Fish Street
+Sarah Augusta GOYMER     21 Nov 1833 0.8  Old Fish Street
+Elizabeth GREEN          28 Dec 1814 2.9  Carter Lane
+John GREEN               09 Dec 1814 4.6  Little Carter Lane
+Sarah GREEN              25 Mar 1821 53   Little Carter Lane
+William GREEN            07 Feb 1830 61   Old Change
+William George GREEN     22 May 1839 35   Little Carter Lane
+Charles GREENWOOD        18 Feb 1814 33   Old Fish Street
+William GRIFFIN          12 Aug 1827 0.10 Lambeth Hill
+Sarah Jane GRIFFITHS     13 Oct 1833 2.8  Sermon Lane
+John GROVER              01 Feb 1814 5    Taylor's Court, Lambeth Hill
+Sarah GROVER             04 Feb 1849 30   4, Taylor's Court, Lambeth Hill
+Amelia GYDE              10 Nov 1839 0.1  Lambeth Hill
+Thomas HALL              02 Mar 1845 64   Green Arbour Court, Lambeth Hill
+Clara HANDLEY            19 Nov 1845 1    Lambeth Hill
+John HARRIS              02 Jul 1837 62   Lambeth Hill
+John Francis HARRIS      16 Jan 1842 0.20 Peter's Hill
+Rosetta HARRIS           22 Jan 1837 74   Lambeth Hill
+John HART                22 Jan 1826 51   Old Change
+Henry HARTRUP            24 Oct 1813 1.7  Green Arbour Court, Lambeth Hill
+Joseph HARTRUP           23 Dec 1818 2    Green Arbour Court, Lambeth Hill
+Samuel HARTRUP           19 Mar 1815 0.2  Green Arbour Court, Lambeth Hill
+William Matthew HASSALL  28 Nov 1852 0.3  2, Old Fish Street
+Jane Charlotte HAWARD    22 Sep 1821 2w   Little Carter Lane
+Eleanor HAWKINS          14 Sep 1817 0.13 Canterbury Court, St Andrews Hil
+Elizabeth Sarah HAWKINS  26 Nov 1838 4.2  Green Arbour Court, Lambeth Hill
+Mary HAWKINS             01 Jul 1821 53   Knight Rider Court
+Sarah Jane HAWKINS       30 Nov 1817 3    Canterbury Court, St Andrews Hill
+Thomas HAWKINS           13 Dec 1818 55   Sermon Lane
+Alice HAY                17 Nov 1850 57   6, Green Arbour Court, Lambeth Hill
+James HEALD              13 Apr 1847 56   24, Old Change
+Martha HEALD             03 Mar 1841 48   Lambeth Hill
+William HEALD            21 Jul 1850 14   Old Change
+Thomas HEATH             22 May 1836 72   Lambeth Hill
+Robert HENDRY            28 Nov 1824 43   Labour in Vain Yard
+William HENLEY           11 Dec 1814 43   Bottle Hay Yard
+Robert HENRY             30 Jan 1814 66   Lambeth Hill
+Ann HIBBLE               28 Aug 1833 53   Lambeth Hill
+James HIBBLE             24 Jul 1833 75   Lambeth Hill
+James HILLUM             26 Sep 1839 39   Knight Rider Court
+James HINES              17 Jan 1813 40   Lambeth Hill
+Elizabeth HOBART         19 Apr 1833 36   Little Knight Ryder Street
+Janes HOLLOWAY           15 Jul 1818 0.10 Lambeth Hill
+John HOLLOWAY            05 Jun 1821 6    Lambeth Hill
+Elizabeth HOLMAN         08 Nov 1835 1.5  Little Carter Lane
+William Henry HOLMAN     26 Apr 1835 14   Little Carter Lane
+John HOOD                15 Dec 1844 51   Carter Lane
+Robert HOOPER            16 Sep 1824 0.9  Green Arbour Court, Lambeth Hill
+William HOOPER           25 Sep 1839 19   Green Arbour Court, Lambeth Hill
+Martha HOPKINS           18 Mar 1825 84   Taylor's Court, Lambeth Hill
+Henry HORNER             06 Apr 1847 45   Knowles Court
+Benjamin HOTINE          15 Feb 1829 53   Little Knight Rider Street
+Mary HOTINE              27 Oct 1819 49   Lambeth Hill
+John HUGGINS             09 May 1849 47   6, Lambeth Hill
+Edwin HUGHES             11 Sep 1829 5d   Lambeth Hill
+Hannah HUGHES            11 Sep 1829 25   Lambeth Hill
+Elizabeth HULCUP         09 Jan 1814 2.6  Old Change
+William HURN             06 Feb 1826 0.2  Lambeth Hill
+Mary Harris HUTCHINSON   14 May 1837 2    Little Carter Lane
+Mary Ann ISLIP           20 Dec 1840 4    Lambeth Hill
+James JACKSON            19 May 1822 0.10 Friday Street
+Mary Ann JACKSON         31 Jul 1814 1.3  Knowles Court
+Sarah JACKSON            05 Dec 1819 68   Labour in Vain Crt, Little Fish
+Simmons JACKSON          24 Oct 1819 4    Friday Street
+Mary JARRAL              04 Oct 1824 69   Lambeth Hill
+James JARRETT            11 May 1851 39   12,Crane Court Lambeth Hill
+Thomas JARVIS            23 Apr 1825 39   Little Knight Ryder Street
+Susan JEWELL             17 Mar 1850 0.5  10, Little Carter Lane
+James JOHNS              13 Jan 1842 51   Lambeth Hill
+Richard JOHNS            13 Mar 1827 28   Knight Rider Court
+Eliza Sarah JOHNSON      06 Jan 1822 2.6  Lambeth Hill
+George JOHNSON           05 Feb 1817 64   Taylor's Court, Lambeth Hill
+Sarah JOHNSON            28 Jan 1827 41   Lambeth Hill
+Caroline JONES           31 Oct 1821 0.15 St Peters Hill
+Elizabeth JONES          12 Jul 1815 0.21 Lambeth Hill
+Elizabeth JONES          20 Jan 1822 61   Little Carter Lane
+George JONES             18 Mar 1827 0.13 Bell Inn Yard, Friday Street
+James John JONES         12 Aug 1832 37   Knight Rider Court
+John JONES               27 May 1819 60   Windsor Crt, Little Knight Rider
+John Amos JONES          02 Nov 1828 0.9  Bell Inn Yard, Friday Street
+Margaret JONES           14 Apr 1833 58   Crane Court Lambeth Hill
+Martha JONES             09 Jun 1850 7    9, Little Carter Lane
+Mary Ann JONES           27 Sep 1849 8    20,Lambeth Hill
+Rebecca JONES            01 Dec 1833 86   Green Arbour Court, Lambeth Hill
+William JONES            08 Nov 1835 40   St Bartholomew's Hospital
+William JOPP             10 Sep 1833 24   Great Trinity Lane
+William JOPP             01 May 1834 0.8  Oxford Street
+Anne JORDAN              25 Nov 1832 36   Knight Ryder Court
+Frances Ann JORDAN       14 May 1827 3.4  Knight Ryder Court
+Joseph KELLY             31 Dec 1815 27   Little Knight Ryder Street
+Clara KEMSHEAD           21 May 1843 3.6  25, Lambeth Hill
+Richard KEMSHEAD         21 Feb 1841 35   Lambeth Hill
+Hannah KENDRICK          27 Nov 1831 71   Crane Court Lambeth Hill
+Hannah KENDRICK          06 Dec 1821 0.11 Old Change
+Daniel KENSEY            04 Nov 1825 3d   Knight Rider Court
+Thomas Joel James KENSEY 27 Mar 1822 4    Lambeth Hill
+Henry KERR               05 Dec 1823 3    Little Knight Ryder Street
+William KNIGHT           30 Mar 1828 35   Knight Rider Court
+Frederick KOPP           20 Dec 1818 45   Kings Head Crt, Little Carter Lane
+Mary LANGDON             15 Mar 1813 36   Blackheath Hill Kent
+William LANGLEY          27 Feb 1820 42   Old Change
+Henry Richard LAVIS      24 Oct 1848 0.5  7, Lambeth Hill
+Sarah Ann LAVIS          15 Oct 1848 2    7, Lambeth Hill
+Chas Nathaniel LAWRENCE  02 Dec 1838 10   Old Change
+Frances LEAVER           25 Nov 1830 28   Little Knight Ryder Street
+Charles LEE              16 Mar 1828 0.13 Sermon Lane
+George Edwin LEE         22 Apr 1830 5    Little Carter Lane
+Hannah LEE               21 Apr 1844 53   Sermon Lane
+Hannah LEE               30 May 1852 22   17,Sermon Lane
+Samuel LEE               26 Jul 1834 5.9  Sermon Lane
+Jane LEGG                10 Feb 1833 26   Green Arbour Court, Lambeth Hill
+John LESTER              22 May 1814 61   St Mary, Lambeth
+Mary LEWIN               18 Aug 1850 63   7,Little Knight Ryder Street
+Catherine LINCH          27 May 1813 0.2  Green Arbour Court, Lambeth Hill
+John LINCK               22 May 1814 0.7  Taylor's Court, Lambeth Hill
+Martin LINCK             05 Mar 1817 0.7  Taylor's Court, Lambeth Hill
+Sarah LINSELL            24 Dec 1828 62   Taylor's Court, Lambeth Hill
+Thomas LINSELL           15 Jan 1832 63   At Andrews Hill
+Mary LINSELL             22 Dec 1844 43   Crane Court Lambeth Hill
+Samuel LITTLE            23 Feb 1851 2    3, Taylor's Court, Lambeth Hill
+Harriet LLOYD            17 Aug 1831 1.9  Lambeth Hill
+Richard LLOYD            03 Feb 1830 40   Lambeth Hill
+James LOOKER             01 Dec 1825 2.6  Lambeth Hill
+John LOOKER              11 Sep 1831 45   Lambeth Hill
+John Edward LOOKER       20 Jul 1831 0.20 Lambeth Hill
+Thomas LOOKER            09 May 1824 2.10 Lambeth Hill
+Wilhelmina Lydia LOVE    22 Aug 1820 0.10 Lambeth Hill
+Hannah LUCAS             27 Dec 1829 67   Taylor's Court, Lambeth Hill
+William LYALL            05 Jan 1851 63   23 Peter's Hill
+Daniel LYONS             27 Apr 1834 1.6  Green Arbour Court, Lambeth Hill
+Thomas LYONS             03 Apr 1833 2    Green Arbour Court, Lambeth Hill
+Elizabeth MACKEY         10 Apr 1853 77   193, Upper Thames Street
+Richard Jebb MADELEY     18 Jul 1813 1.4  Green Arbour Court, Lambeth Hill
+John Sadler MAIL         07 Mar 1816 3    Sermon Lane
+Richard MALLON           17 Feb 1850 0.2  23, Lambeth Hill
+George Henry MANN        16 Jun 1822 0.13 Lambeth Hill
+Elizabeth MANNING        07 Oct 1818 0.10 Little Carter Lane
+Sarah MARCHANT           20 May 1850 87   12, Sermon Lane
+William MARCHUM          15 Dec 1822 22   Taylor's Court, Lambeth Hill
+Ann MARECHAL             07 May 1837 73   Little Knight Ryder Street
+Caroline MARECHAL        23 Apr 1820 22   Little Knight Ryder Street
+Anthony Romney MARSHALL  05 Aug 1839 0.19 Little Knight Ryder Street
+Frederick MARSHALL       05 Aug 1839 4    Little Knight Ryder Street
+Mary Ann MARSHALL        25 Aug 1814 5    St Mildreds Crt Bread Street
+Mary Louise MARSHALL     20 Dec 1839 5    Little Knight Ryder Street
+Francis MARTIMORE        27 Jun 1824 64   Lambeth Hill
+Edward MARTIN            09 Aug 1825 49   Lambeth Hill
+Mary MARYON              06 Feb 1842 38   Boss Court Upper Thames Street
+Simon MARYON             03 Mar 1841 41   Crane Court Lambeth Hill
+Emma MASDON              13 Nov 1825 0.10 Lambeth Hill
+George MASON             26 Oct 1837 0.5  Knight Rider Court
+James MASON              12 Jun 1839 0.3  Crane Court Lambeth Hill
+John MASON               23 Jun 1846 18   Crane Court Lambeth Hill
+Richard MASON            12 Oct 1826 49   Lambeth Hill
+Sarah MASON              02 Jun 1839 3.10 Crane Court Lambeth Hill
+Sophie McGOWAN           06 Mar 1836 55   St Peters Hill
+Nathaniel McGOWEN        20 Jan 1841 76   Lambeth Hill
+Christianus MEADOWS      03 Apr 1823 67   Bell Court
+Mary MEADOWS             07 Feb 1823 74   Taylor's Court, Lambeth Hill
+Hannah MELLOR            20 Feb 1825 60   Bell Court, Great Carter Lane
+Elizabeth MILLINGTON     23 Jan 1818 0.13 Lambeth Hill
+Sarah MILLWARD           29 Oct 1841 84   Little Carter Lane
+James MILNER             05 Apr 1830 61   Crown Court Old Change
+Mary MILNER              14 Jul 1822 56   Old Change
+Thomas MILWARD           02 Nov 1834 84   Lambeth Hill
+Caroline MOLE            15 Nov 1840 63   Holiday Yard
+Ann MOORES               02 Jul 1817 43   Fleet Market
+Henry MORE               06 Jun 1814 0.14 Lambeth Hill
+Charles MORGAN           22 Feb 1824 0.14 Crane Court Lambeth Hill
+William James MORGAN     26 Jul 1833 0.15 Crane Court Lambeth Hill
+Ann MORRIS               10 Jan 1819 76   Green Arbour Court, Lambeth Hill
+Mary MORRIS              30 Mar 1828 96   Lambeth Hill
+Thomas MORRIS            07 Apr 1815 71   Carter Lane, Old Change
+Job MORTON               17 Dec 1813 45   St Bartholomews Hospital
+Edward MOULL             25 Apr 1821 6w   Green Arbour Court, Lambeth Hill
+Robert MULLIS            29 Jun 1828 38   Sermon Lane
+Ann MURRAY               13 Mar 1821 62   Green Arbour Court, Lambeth Hill
+James MURRAY             15 Jan 1815 27   Taylor's Court, Lambeth Hill
+Thomas William NEALE     03 Sep 1828 1    Lambeth Hill
+Eliza NEGUS              12 Dec 1847 43   5, Lambeth Hill
+Mary NETTLETON           02 Jan 1845 69   Knight Rider Court
+Philadelphia NEWBLE      12 Jun 1818 25   Green Arbour Court, Lambeth Hill
+John NEWHALE             04 Nov 1833 58   Woolwich Kent
+Joseph NEWHALL           08 Jul 1833 61   Little Knight Ryder Street
+Joseph NEWMAN            24 Sep 1843 1    Old Change
+Caroline NICHOLAS        06 Feb 1834 6    Little Carter Lane
+Francis NORIS            05 Feb 1837 45   Lambeth Hill
+Mary Ann NORRIS          03 Oct 1849 18   7, Little Knight Ryder Street
+Elizabeth Webb NORTWYCK  06 May 1818 37   Little Knight Ryder Street
+Elizabeth NOTLEY         28 Jan 1819 5    Upper Thames Street
+William NOTTLEY          30 Apr 1818 0.11 Printing Ho Yard Water Lane
+Thomas Ebenezer OGILVY   19 Mar 1843 2.5  Little Knight Ryder Street
+Jane Elizabeth ORAM      06 Apr 1817 0.22 Lambeth Hill
+Sarah ORAM               21 Feb 1819 37   Lambeth Hill
+Susannah ORAM            27 Apr 1817 60   Crane Court Lambeth Hill
+Elizabeth ORTSON         03 Jan 1819 46   Crane Court Lambeth Hill
+Susan OXFORD             08 Nov 1826 0.15 Crane Court Lambeth Hill
+Elizabeth PARRY          12 Mar 1826 41   Old Change
+Maria PARTRIDGE          20 Nov 1842 60   Great Trinity Lane
+Amy PAYNE                29 Mar 1839 42   Little Carter Lane
+Hannah PAYNE             02 Jul 1816 40   New Street, Shoe Lane
+Elizabeth PEASTON        11 Dec 1842 0.11 Taylor's Court, Lambeth Hill
+Alice Elizabeth PERKINS  30 Nov 1845 68   Bell Court, Temple Bar
+Elizabeth PERKINS        25 Oct 1816 0.16 Green Arbour Court, Lambeth Hill
+Emma PERKINS             11 Jul 1827 14w  Lambeth Hill
+Mary PERKINS             21 Sep 1814 1.3  Green Arbour Court, Lambeth Hill
+Mary PERKINS             02 May 1833 45   Lambeth Hill
+Robert PERKINS           29 Jun 1821 3    Green Arbour Court, Lambeth Hill
+Stephen PERKINS          25 Mar 1838 19   Old Fish Street
+Thomas PERKINS           31 Mar 1833 50   Lambeth Hill
+Thomas Robert PERKINS    04 Sep 1814 6.7  Green Arbour Court, Lambeth Hill
+Elizabeth Ann PETTIT     23 Mar 1819 38   Little Knight Ryder Street
+Susannah PETTIT          14 May 1817 69   Blackheath Kent
+Sarah PHILLIPS           26 Oct 1834 59   Lambeth Hill
+Susan PHILLIPS           06 Jan 1828 61   Lambeth Hill
+William PHILLIPS         22 Feb 1829 66   Crane Court Lambeth Hill
+James PHILP              03 Aug 1837 0.4  Knight Rider Court
+Mary PHILP               23 Dec 1838 46   Knight Rider Court
+William PHILP            07 Jul 1833 16   St Peters Hill
+William Andrew PINK      02 Jun 1816 1.9  Lambeth Hill
+James PITT               07 Oct 1849 3    2,Lambeth Hill
+William Earl PITT        07 Oct 1849 3    2,Lambeth Hill
+Charles PLUMRIDGE        21 Nov 1849 0.14 4, Green Arbour Court
+William PLUMRIDGE        25 Aug 1833 75   Taylor's Court, Lambeth Hill
+George POCOCK            09 Jun 1814 35   St Bartholomew's Hospital
+Georgina POWELL          24 Jul 1830 43   Little Carter Lane
+Robert POWELL            13 Oct 1837 1    Knight Rider Court
+Henry PRESCOTT           17 Sep 1817 0.11 Lambeth Hill
+Elizabeth PRICE          30 Jan 1825 53   Noble Street, St Lukes MDX
+Hiram PRICE              01 Aug 1820 60   Lambeth Hill
+Mary Ann PRICE           18 Jul 1832 9    Lambeth Hill
+William PRICE            16 Mar 1828 30   Knight Rider Court
+Philip John PRUDORN      19 Dec 1838 40   Sermon Lane
+Alfred PRYCE             17 Nov 1850 1    1, Sermon Lane
+Jane PUZEY               27 Aug 1829 0.13 Crane Court Lambeth Hill
+George RADFORD           23 Sep 1824 18   St Peters Hill
+William RADFORD          13 Feb 1826 57   St Peters Hill
+George READ              20 Aug 1833 66   Green Arbour Court, Lambeth Hill
+Mary Ann READ            30 Apr 1815 0.9  Little Knight Ryder Street
+Sarah READ               05 May 1833 65   Green Arbour Court, Lambeth Hill
+John REDDALL             22 Aug 1834 72   Sermon Lane
+Jane REDHALL             28 Dec 1816 59   Sermon Lane
+Alfred RENWELL           22 May 1842 0.18 Crane Court Lambeth Hill
+Jane RICHARDS            21 Aug 1831 7w   Green Arbour Court, Lambeth Hill
+Mary RICHARDS            07 Feb 1819 3    Stepney MDX
+Mary RICHARDS            26 Oct 1819 82   Lambeth SRY
+Thomas RICHARDS          06 May 1819 44   Taylor's Court, Lambeth Hill
+William RICHARDS         09 Jan 1818 43   John Street, St George MDX
+Hubert Paul RIVOUS       07 Apr 1835 15   Little Knight Rider Street
+Elizabeth ROBERTS        28 May 1839 1.11 Green Arbour Court, Lambeth Hill
+Geroge Henry ROBERTS     20 Oct 1839 0.3  Green Arbour Court, Lambeth Hill
+John ROCKELL             09 Aug 1835 69   Taylor's Court, Lambeth Hill
+Jane ROCKLE              03 Aug 1845 74   6, Lambeth Hill
+Harriet RODGERS          06 Jan 1820 61   Pratt Street, Lambeth
+Hannah ROGERS            10 Nov 1824 5    Knight Rider's Court
+Maria ROSE               29 Jun 1828 8    Taylor's Court, Lambeth Hill
+Henry ROSS               22 Aug 1841 37   Little Carter Lane
+Charles ROWLEY           03 Nov 1822 79   Old Change
+Martha RUSS              20 Jun 1816 66   Green Arbour Court
+Richard RUSS             13 Sep 1818 68   Little Fish Street Hill
+Alfred RYDER             15 Jan 1843 2.6  Sermon Lane
+Margaret RYDER           03 Jul 1814 64   Knight Rider Court
+Emma SALIS               23 Jul 1833 2w   Knight Rider Court
+Nicholas SANDELL         08 Apr 1821 50   Old Change
+Mary Ann SARGENT         14 Dec 1835 0.10 Taylor's Court, Lambeth Hill
+William SARGENT          15 Feb 1829 0.5  Lambeth Hill
+William John SARJANT     08 Jun 1838 5w   Taylor's Court, Lambeth Hill
+Mary SARTINE             01 Sep 1815 64   Taylor's Court, Lambeth Hill
+Ann SAUNDERS             21 May 1852 90   1, Taylor's Court, Lambeth Hill
+George SAYER             21 Aug 1813 3.3  Old Change
+Christian SCHINDLER      27 Jan 1830 58   Knowles Court Little Carter Lane
+Bella SCOTT              04 Jun 1840 11   Lambeth Hill
+Henry SEATORN            22 Feb 1814 4.9  Lambeth Hill
+Jane SEATORN             08 Feb 1814 1.11 Lambeth Hill
+Sarah SEDGWICK           31 Jul 1821 49   St Peter's Hill
+Henry SHIPMAN            02 Nov 1826 39   Little Carter Lane
+Martha SHIPMAN           28 Apr 1850 69   9, Crane Court Lambeth Hill
+Ann SHIRMER              17 Feb 1822 26   St Peter's Hill
+James SHORT              22 Sep 1822 22   Little Knight Ryder Street
+William SHURRY           25 Jan 1818 0.1  Little Carter Lane
+Ann SKATES               08 Oct 1837 50   Green Arbour Court, Lambeth Hill
+Janet SKEENE             31 Dec 1829 63   Little Knight Rider Street
+John SMALE               22 Jul 1832 51   Green Arbour Court, Lambeth Hill
+Ann SMITH                26 Jan 1845 31   Sermon Lane
+Ann Harriett SMITH       16 Oct 1847 3    25, Lambeth Hill
+George Trinity SMITH     18 Aug 1822 29   Lambeth Hill
+Mary Ann SMITH           26 Nov 1813 2    Workhouse
+Richard SMITH            04 Aug 1817 35   Crane Court Lambeth Hill
+Richard Ann SMITH        01 Apr 1813 0.3  Lambeth Hill
+Sophia SMITH             05 Feb 1815 18   Little Knight Ryder Street
+Thomas SMITH             20 Oct 1823 28   Old Change
+Thomas SNOWDEN           05 Aug 1814 43   Knowles Court
+Clara Emmeline SPEECHLEY 16 Dec 1838 3.5  Christ Church Surrey
+Eliza Ellen SPEECHLEY    28 Feb 1836 3    Prujean Square Old Bailey
+John SPEECHLEY           03 May 1821 68   Sidney Street, Islington MDX
+John Edward SPEECHLEY    09 Nov 1828 4    Sermon Lane
+Thomas Henry SPEECHLEY   07 Mar 1830 3.6  Sermon Lane
+William SPEED            07 Jun 1846 0.3  24, Peters Hill
+Mary SPRINGH             24 Mar 1816 4d   St Peter's Hill
+Maria STAINES            28 Nov 1840 0.3  Lambeth Hill
+William STEDMAN          17 Feb 1813 0.7  Crane Court
+Eliza STEVENS            06 Mar 1822 0.11 Bells Court, Docotr's Commons
+Elizabeth STEVENS        23 Mar 1817 66   Green Arbour Court, Lambeth Hill
+Emily Esther STEVENS     22 Apr 1832 1.7  Bell Court, Doctors Commons
+John Paul STEVENS        17 Jan 1827 66   Crane Arbour Court
+Maria STEVENS            16 Nov 1820 1.9  Bell Court, Doctor's Commons
+William Nick STEVENS     07 Feb 1847 21   Bell Court
+James STEWART            05 Apr 1829 4w   Sermon Lane
+Sarah STEWART            11 Dec 1831 1.9  St Johns Street, Smithfield
+Mary STRAITON            08 Nov 1835 2.10 Little Knight Ryder Street
+William STRANGE          03 Apr 1853 44   19, Little Knight Ryder Street
+Elizabeth Lydia STRATTON 17 Aug 1834 25   Sermon Lane
+Joseph STRICKFIELD       19 Jul 1835 0.4  Lambeth Hill
+Thomas STRICKLAND        11 Sep 1835 73   Little Knight Ryder Street
+Margaret TALBOTT         01 Dec 1833 31   Little Carter Lane
+Henry TAPP               17 Aug 1845 57   Crane Court Lambeth Hill
+Mary TAYLOR              23 Jan 1814 22   Knight Rider Court
+Joseph TEMPEST           26 Dec 1841 73   Taylor's Court, Lambeth Hill
+Henry THEED              17 Mar 1842 37   Sermon Lane
+John THEOBALD            23 Mar 1817 45   Lambeth Hill
+Mary THOMPSON            21 Mar 1844 82   Sermon Lane
+Sarah THOMPSON           07 May 1844 78   Lambeth Hill
+William THOMPSON         10 Oct 1839 75   Green Arbour Court, Lambeth Hill
+Ann THOMSON              26 Mar 1820 63   Red Lion Street, Holborn
+David THOMSON            29 Jan 1837 5    Old Change
+Robert THOMSON           04 Aug 1813 25   Fleet Market
+George THORNTON          03 Sep 1820 60   Lambeth Hill
+Agnes TINDALL            15 Mar 1818 0.19 Kings Head Crt Little Carter Lan
+John TINDALL             19 Oct 1815 0.7  Green Arbour Court, Lambeth Hill
+Elizabeth TINKLER        22 Mar 1846 66   Little Carter Lane
+William TRACEY           31 May 1849 2    8, Green Arbour Court
+James Frederick TRAYLEN  10 Jul 1828 0.4  Little Carter Lane
+Charles TRIMMING         17 Aug 1837 15   Taylor's Court, Lambeth Hill
+Maria Ann TUCKER         30 Aug 1815 0.8  Green Arbour Court, Lambeth Hill
+William TYRRELL          25 Dec 1822 0.2  Lambeth Hill
+Moot VALENTINE           14 Sep 1832 43   Crane Court Lambeth Hill
+Joseph VERE              11 Feb 1819 65   Cloth Fair, Smithfield
+George Frederick VIGOR   23 Nov 1828 2    Little Knight Ryder Street
+Sarah VINCE              14 Aug 1831 1    Lambeth Hill
+Penfold WAKEFIELD        18 Feb 1844 4.8  Knight Rider Court
+Stephen C WAKEFIELD      12 Aug 1851 53   1, Knight Rider Court
+Caroline Lydia WALKER    17 Mar 1817 0.1  Little Knight Ryder Street
+Charlotte WALKER         17 Aug 1851 0.7  20, Lambeth Hill
+John Henry WALKER        08 Jul 1829 0.5  Knight Rider Court
+Mary WALKER              27 Nov 1817 30   Little Knight Ryder Street
+Eliza WALLINGER          20 May 1821 0.10 Taylor's Court, Lambeth Hill
+Mary Ann WALLINGER       02 Aug 1818 1.6  Taylor's Court, Lambeth Hill
+William Isaac WALSHAM    21 Jan 1849 0.9  2, Lambeth Hill
+Peter WARBURTON          13 Mar 1823 47   Old Change
+George WARD              30 Jul 1820 21d  Lambeth Hill
+Maria WARD               11 Dec 1849 43   2, Lambeth Hill
+Martha WARD              12 Mar 1815 36   St Peter's Hill
+Joseph WARHAM            22 Nov 1818 0.18 Green Arbour Court, Lambeth Hill
+Edward WATERLANE         14 Sep 1826 32   Bread Street Hill
+Henry Samuel WATT        01 Oct 1823 0.10 St Peter's Hill
+John Francis WATTS       08 Dec 1813 3    Old Change
+Mary WEEKS               23 Dec 1849 57   11, Little Carter Lane
+Joshua WELCH             21 Apr 1828 25   Little Knight Rider Street
+Sarah WELCH              23 Feb 1840 20   Old Fish Street
+Sarah WELCH              23 Feb 1840 20   Old Fish Street
+George WESTCOTT          04 Apr 1838 40   Crane Court Lambeth Hill
+Mary WESTCOTT            17 Aug 1833 26   Knight Rider Court
+Ann WHIFFEN              15 Dec 1824 42   St Peter's Hill
+Peter WHITE              30 Nov 1851 70   5, Knight Rider Street
+Ann WHITEHOUSE           18 Feb 1814 42   Lambeth Hill
+William WHITEKER         02 Feb 1845 43   Peter's Hill
+James Fredrk. WHITTAKER  05 Mar 1820 0.16 Little Fish Street Hill
+John Butler WHITTAKER    20 Aug 1817 15w  Lambeth Hill
+Elizabeth WILD           22 Dec 1835 23   Lambeth Hill
+John WILD                17 Aug 1817 64   St George's Court, St Bennets Hil
+John WILLIAMS            18 May 1834 40   Old Change
+Susannah WILLIAMS        13 Nov 1842 56   Green Arbour Court
+Ann WILLOUGHBY           04 Feb 1818 67   Green Arbour Court, Lambeth Hill
+John WILLSON             16 Apr 1826 25   Little Carter Lane
+Robert WILLSON           04 Jan 1817 19   Crane Court Lambeth Hill
+Samuel WILLWARD          25 Apr 1813 63   Lambeth Hill
+Jane WILSON              01 Nov 1816 46   Little Knight Ryder Street
+Joseph WILSON            06 Jun 1835 2    Green Arbour Court, Lambeth Hill
+Samuel John WINDSOR      30 Apr 1817 0.2  Lambeth Hill
+Jonathan WINSON          17 Feb 1822 34   Taylor's Court, Lambeth Hill
+Charles WISE             22 Dec 1816 49   Lambeth Hill
+Mary WISE                25 Jan 1820 44   Lambeth Hill
+Jane WISHER              28 Apr 1833 0.11 Lambeth Hill
+Jane WISHER              19 Dec 1851 50   4, Lambeth Hill
+Sarah WISHER             27 Jan 1835 1    Lambeth Hill
+Hannah WOOD              03 Mar 1830 7w   Knight Rider Court
+Samuel WOOLFE            05 Mar 1846 76   4, Lambeth Hill
+Jacob WRAGG              23 Sep 1818 62   Little Knight Ryder Street
+Margaret WRAGG           30 Oct 1819 73   Stangate Lambeth
+William WRIGHT           24 Jan 1844 74   Greeham, East Kent
+Benjamin Day YATES       16 Feb 1819 1.8  Sermon Lane
+George YOUNG             11 May 1845 73   Peter's Hill
