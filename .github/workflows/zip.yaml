@@ -1,0 +1,12 @@
+name: auto-zip
+on:
+  workflow_dispatch:
+  push:
+    branches:
+    - main
+jobs:
+  auto-zip:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - run: .github/workflows/create\ zips.sh
