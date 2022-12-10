@@ -1,7 +1,11 @@
 public class CircleRunner {
 	public static void main(String[] args) {
 		CircleAnimations app = new CircleAnimations(600); //supply window size, will be 600x600
-		//test your methods below (with the app object)
+		// test your methods below (with the app object)
+
+		// app.addCircles();
+		// app.addCircles(100);
+		app.noOverlapping(300);
 		app.movingCircles();
 	}
 

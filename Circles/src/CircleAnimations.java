@@ -56,9 +56,9 @@ public class CircleAnimations
 		for (int i = 0; i < number; i++) {
 			Circle newCircle;
 			do {
-				int newX = rng.nextInt(size + 1);
-				int newY = rng.nextInt(size + 1);
 				int newRadius = rng.nextInt(75) + 1;
+				int newX = rng.nextInt(size - newRadius * 2) + newRadius;
+				int newY = rng.nextInt(size - newRadius * 2) + newRadius;
 				Color newColor = new Color(rng.nextInt(256), rng.nextInt(256), rng.nextInt(256));
 				newCircle = new Circle(newX, newY, newRadius, newColor);
 			} while (hasOverlaps(newCircle));
@@ -69,14 +69,16 @@ public class CircleAnimations
 
 	@SuppressWarnings({"InfiniteLoopStatement", "deprecation"})
 	void movingCircles() {
-		addCircles(10);
+		if (circles.isEmpty()) {
+			addCircles(10);
+		}
+
 		for (Circle circle : circles) {
-			circle.setDx(rng.nextInt(5) + 1);
-			circle.setDy(rng.nextInt(5) + 1);
+			circle.setDx(rng.nextInt(11) - 5);
+			circle.setDy(rng.nextInt(11) - 5);
 		}
 
 		while (true) {
-			StdDraw.clear();
 			drawCircles();
 			for (Circle circle : circles) {
 				circle.update(size);
@@ -92,6 +94,7 @@ public class CircleAnimations
 				}
 			}
 			StdDraw.show(10);
+			StdDraw.clear();
 		}
 	}
 }
