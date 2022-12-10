@@ -9,5 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - run: sudo .github/workflows/createzips.sh
+      - run: |
+         chmod +x ./.github/workflows/createzips.sh
+         ./.github/workflows/createzips.sh
         shell: bash
