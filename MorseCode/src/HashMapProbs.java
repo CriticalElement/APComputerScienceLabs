@@ -17,7 +17,7 @@ public class HashMapProbs {
         animalSounds.put("Cat", "Meow");
         animalSounds.put("Cow", "Moo");
         animalSounds.put("Pig", "Oink");
-        animalSounds.put("Sarvesh", "Woof");
+        animalSounds.put("Dog", "Woof");
         System.out.println(animalSounds + "\n");
 
         // 2:
