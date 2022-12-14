@@ -48,7 +48,7 @@ public class HashMapProbs {
         while (file.hasNext()) {
             String token = file.next();
             map.computeIfPresent(token, (key, val) -> ++val);
-            map.putIfAbsent(token, 0);
+            map.putIfAbsent(token, 1);
         }
         int max = Collections.max(map.values());
         map.forEach((key, val) -> {
