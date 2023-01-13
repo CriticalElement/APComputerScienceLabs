@@ -6,7 +6,7 @@ public class Circle {
     private final int radius;
     private final Color color;
 
-    Circle(int x, int y, int radius, Color color) {
+    public Circle(int x, int y, int radius, Color color) {
         this.x = x;
         this.y = y;
         this.radius = radius;
@@ -14,7 +14,7 @@ public class Circle {
     }
 
     @SuppressWarnings("unused")
-    Circle(int x, int y, int dx, int dy, int radius, Color color) {
+    public Circle(int x, int y, int dx, int dy, int radius, Color color) {
         this.x = x;
         this.y = y;
         this.dx = dx;
@@ -43,19 +43,19 @@ public class Circle {
         this.dy = dy;
     }
 
-    void draw() {
+    public void draw() {
         StdDraw.setPenColor(color);
         StdDraw.filledCircle(x, y, radius);
     }
 
-    void update(int size) {
+    public void update(int size) {
         this.x += dx;
         this.y += dy;
 
         bounce(size);
     }
 
-    void bounce(int size) {
+    public void bounce(int size) {
         if (x <= radius) {
             dx *= -1;
         }
@@ -70,7 +70,7 @@ public class Circle {
         }
     }
 
-    boolean overlaps(Circle other) {
+    public boolean overlaps(Circle other) {
         int xDist = other.getX() - x;
         int yDist = other.getY() - y;
         double dist = Math.sqrt(xDist * xDist + yDist * yDist);

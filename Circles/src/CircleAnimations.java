@@ -20,18 +20,18 @@ public class CircleAnimations
 		StdDraw.setYscale(0, size);
 	}
 
-	void drawCircles() {
+	public void drawCircles() {
 		for (Circle circle : circles) {
 			circle.draw();
 		}
 	}
 
 	@SuppressWarnings("unused")
-	void addCircles() {
+	public void addCircles() {
 		addCircles(3);
 	}
 
-	void addCircles(int num) {
+	public void addCircles(int num) {
 		for (int i = 0; i < num; i++) {
 			int newRadius = rng.nextInt(75) + 1;
 			int newX = rng.nextInt(size - newRadius * 2) + newRadius;
@@ -42,7 +42,7 @@ public class CircleAnimations
 		drawCircles();
 	}
 
-	boolean hasOverlaps(Circle circle) {
+	public boolean hasOverlaps(Circle circle) {
 		for (Circle other : circles) {
 			if (circle.overlaps(other)) {
 				return true;
@@ -52,7 +52,7 @@ public class CircleAnimations
 	}
 
 	@SuppressWarnings("unused")
-	void noOverlapping(int number) {
+	public void noOverlapping(int number) {
 		for (int i = 0; i < number; i++) {
 			Circle newCircle;
 			do {
@@ -68,7 +68,7 @@ public class CircleAnimations
 	}
 
 	@SuppressWarnings({"InfiniteLoopStatement", "deprecation"})
-	void movingCircles() {
+	public void movingCircles() {
 		if (circles.isEmpty()) {
 			addCircles(10);
 		}
