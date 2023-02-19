@@ -16,3 +16,4 @@ jobs:
       - uses: EndBug/add-and-commit@v9
         with:
           message: ${{ github.event.head_commit.message }} (automated add zips action)
+          default_author: github_actions
