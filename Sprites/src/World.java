@@ -44,7 +44,7 @@ public class World
 			sprites.add(new BouncingSprite(x, y, 50, 50, "circle.png", vx, vy));
 		}
 
-		HeavySprite heavySprite = new HeavySprite(400, 400, 50, 50, "triangle.png", 2, 0);
+		HeavySprite heavySprite = new HeavySprite(400, 400, 50, 50, "triangle.png", 2, 5);
 		sprites.add(heavySprite);
 		ControllableSprite player = new ControllableSprite(300, 200, 50, 50, "star.png", 0, 0);
 		sprites.add(player);
