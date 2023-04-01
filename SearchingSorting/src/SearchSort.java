@@ -202,9 +202,14 @@ public class SearchSort {
     }
 
     public static void main(String[] args) {
+        /* test all algorithms */
+
         SearchSort searchSort;
         Random random = new Random();
         int key;
+
+        /* test searching algorithms */
+
         searchSort = new SearchSort(8);
         System.out.println("Linear Search: " + Arrays.toString(searchSort.getNums()));
         key = searchSort.getNums()[random.nextInt(8)];
@@ -231,6 +236,8 @@ public class SearchSort {
         System.out.println("Key: " + key + " -> index " + searchSort.binarySearchRecur(key));
         key = random.nextInt(1000) + 1;
         System.out.println("Key: " + key + " -> index " + searchSort.binarySearchRecur(key) + "\n");
+
+        /* test sorting algorithms */
 
         searchSort = new SearchSort(8);
         System.out.println("Bubble Sort:");
