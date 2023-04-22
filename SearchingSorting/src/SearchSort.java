@@ -121,7 +121,7 @@ public class SearchSort {
 
     public void selectionSort(boolean print) {
         for (int i = 0; i < nums.length - 1; i++) {
-            int minIndex = i + 1;
+            int minIndex = i;
 
             for (int j = i + 1; j < nums.length; j++) {
                 if (nums[j] < nums[minIndex]) {
